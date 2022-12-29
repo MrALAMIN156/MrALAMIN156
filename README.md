@@ -106,45 +106,7 @@
  
 ### Profile Visitors
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MrALAMIN156visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/MrALAMIN156/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MrALAMIN156&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
-</a>
-<a href="https://github.com/MrALAMIN156/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=ALAMIN -Pro&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=2009&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/Mahadi-2k9"><img title="Mahadi-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=ALAMIN -2k9&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=NUMBER-PK&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/Mahadi-Afg"><img title="Mahadi-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=ALAMIN -Afg&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=World-FD&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/Mahadi-3x"><img title="Mahadi-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=MrALAMIN156-3x&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=FRIEND-CHECKER&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156&repo=HIGH-SPEED&theme=vision-friendly-dark">
- 
-</a>
-<a href="https://github.com/MrALAMIN156/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN1563&repo=CHECK&theme=vision-friendly-dark"> 👋
 
-<!--
 **MrALAMIN156/MrALAMIN156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
