@@ -1,6 +1,6 @@
 ### Hi <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    Welcome to Al Amin  profile  
+    Welcome to  𝐀𝐋-𝐀𝐌𝐈𝐍  profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
@@ -65,10 +65,10 @@
  
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
  
-[![Instagram](https://img.shields.io/badge/IG-%40ALAMIN156-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_Al Amin Anchar)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/Al Amin Anchar)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Al Amin Anchar)
-[![Github](https://img.shields.io/badge/Github-MrALAMIN156reen?style=for-the-badge&logo=github)](https://github.com/MrALAMIN156)
+[![Instagram](https://img.shields.io/badge/IG-%40Al Amin.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
+[![Github](https://img.shields.io/badge/Github-MrALAMIN156 green?style=for-the-badge&logo=github)](https://github.com/MrALAMIN156 )
  
 ### ⚙️   Language & programming
  
@@ -93,12 +93,12 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MrALAMIN156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrALAMIN156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="AL-AMIN 's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MrALAMIN156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrALAMIN156&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MrALAMIN156 /github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrALAMIN156 &count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ALAMIN HASAN NAYIM's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MrALAMIN156 /github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrALAMIN156 &layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MrALAMIN156&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MrALAMIN156 &hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Al Amin's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -106,17 +106,42 @@
  
 ### Profile Visitors
  
-
-**MrALAMIN156/MrALAMIN156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MrALAMIN156 .visitor-badge&left_color=blue&right_color=yellow)
+<br />
+ 
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+ 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/MrALAMIN156 /github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MrALAMIN156 &bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /Al Amin-Pro"><img title="Al Amin-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=Al Amin-Pro&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=2009&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /Al Amin-2k9"><img title="Al Amin-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=Al Amin-2k9&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=NUMBER-PK&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /Al Amin-Afg"><img title="Al Amin-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=Al Amin-Afg&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=World-FD&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /Al Amin-3x"><img title="Al Amin-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=Al Amin-3x&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=FRIEND-CHECKER&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=HIGH-SPEED&theme=vision-friendly-refat">
+ 
+</a>
+<a href="https://github.com/MrALAMIN156 /CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrALAMIN156 &repo=CHECK&theme=vision-friendly-refat">
+ 
+ 
