@@ -1,20 +1,17 @@
 
+![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195400131-41369d85-6f22-4f3f-abd0-c2f6a60331d9.gif)
  
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> 
-  
- <h3 align="center"> 
-   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 
-   &nbsp; WELCOME MY PROFILE &nbsp; 
-   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 
- </h3> 
-  
- <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg"> 
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=HELLO+WORLD%2C+I'M+AL-AMIN +HERE;TODAY+I+WILL+TELL+YOU+🤗;PLEASE+FOLLOW+MY+GITHUB+🙏;THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg) 
-  
- <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" /> 
-  
- </p> 
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    Welcome to Al-amin profile  
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+ALAMIN +ANCHAR+(4|4M1N);+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+ 
+</p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
@@ -121,4 +118,3 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/MrALAMIN156/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MrALAMIN156&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
-
