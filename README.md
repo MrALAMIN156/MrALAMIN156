@@ -1,5 +1,5 @@
 
-![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195400131-41369d85-6f22-4f3f-abd0-c2f6a60331d9.gif)
+![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195400131-41369d85-6f22-4f3fMahad.gif)
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -9,7 +9,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+ALAMIN +ANCHAR+(4|4M1N);+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+ALAMIN+ANCHAR+(4|4M1N);+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
  
 </p>
  
@@ -68,9 +68,9 @@
  
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
  
-[![Instagram](https://img.shields.io/badge/IG-%40Mahadi.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
+[![Instagram](https://img.shields.io/badge/IG-%40ALAMIN.ANCHAR.-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000448332183)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/profile.php?id=100000448332183)
 [![Github](https://img.shields.io/badge/Github-MrALAMIN156green?style=for-the-badge&logo=github)](https://github.com/MrALAMIN156)
  
 ### ⚙️   Language & programming
